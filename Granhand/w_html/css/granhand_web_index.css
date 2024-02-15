@@ -150,14 +150,14 @@ td {
 .fra_box1_pos > p:nth-child(1) {
   font-size: 32px;
   position: absolute;
-  top: 11%;
+  top: 5%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 .fra_box1_pos > p:nth-child(2) {
   font-size: 44px;
   position: absolute;
-  top: 20%;
+  top: 12%;
   left: 50%;
   transform: translate(-50%, -50%);
   white-space: nowrap;
@@ -166,7 +166,7 @@ td {
 .fra_box1_pos > img {
   width: 324px;
   position: absolute;
-  top: 58%;
+  top: 48%;
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
