@@ -39,14 +39,14 @@ td {
 .sig_box1_pos > p:nth-child(1) {
   font-size: 32px;
   position: absolute;
-  top: 5%;
+  top: 2%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 .sig_box1_pos > p:nth-child(2) {
   font-size: 44px;
   position: absolute;
-  top: 14%;
+  top: 11%;
   left: 50%;
   transform: translate(-50%, -50%);
   white-space: nowrap;
@@ -55,7 +55,7 @@ td {
 .sig_box1_pos > img {
   width: 324px;
   position: absolute;
-  top: 58%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
